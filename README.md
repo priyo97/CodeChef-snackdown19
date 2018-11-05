@@ -6,4 +6,4 @@ Qualifier rank: 1780 out of 27906. Note: I was able to solve 4 out of 5 question
 
 1A rank: 6777 out of 15856. Note: I was able to solve 1 and 1/2 out of 6 questions. I scored 150 out of 600.
 
-1B rank: 3507 out of 15856. Note: I was able to solve 3 out of 5 questions. I scored 300 out of 500.
+1B rank: 3085 out of 15856. Note: I was able to solve 3 out of 5 questions. I scored 300 out of 500.
